@@ -28,6 +28,6 @@ Steps to reproduce the behavior:
 
 
 **Environment:**
-API Endpoint: [(https://wmxrwq14uc.execute-api.us-east-1.amazonaws.com/Prod/api/employees)]
+API Endpoint: [[API](https://wmxrwq14uc.execute-api.us-east-1.amazonaws.com/Prod/api/employees)]
 Platform: [Web, macOS]
 Browser: [Chrome 128]
