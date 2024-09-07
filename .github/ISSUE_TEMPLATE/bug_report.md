@@ -26,7 +26,7 @@ Steps to reproduce the behavior:
 **Screenshots**
 
 
-**Desktop (please complete the following information):**
+**Desktop:**
  - OS: macOS
  - Browser: chrome
  - Version: 128
